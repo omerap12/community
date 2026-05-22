@@ -22,7 +22,7 @@ The [charter](charter.md) defines the scope and governance of the Autoscaling Sp
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
 
-* Guy Templeton (**[@gjtempleton](https://github.com/gjtempleton)**), Skyscanner
+* Jack Francis (**[@jackfrancis](https://github.com/jackfrancis)**), Microsoft
 * Kuba Tużnik (**[@towca](https://github.com/towca)**), Google
 
 ### Technical Leads
@@ -30,13 +30,15 @@ The Technical Leads of the SIG establish new subprojects, decommission existing
 subprojects, and resolve cross-subproject technical issues and decisions.
 
 * Adrian Moisey (**[@adrianmoisey](https://github.com/adrianmoisey)**), Independent
-* Jack Francis (**[@jackfrancis](https://github.com/jackfrancis)**), Microsoft
+* Kuba Tużnik (**[@towca](https://github.com/towca)**), Google
+* Omer Aplatony (**[@omerap12](https://github.com/omerap12)**), Red Hat
 
 ## Emeritus Leads
 
 * Maciek Pytel (**[@maciekpytel](https://github.com/maciekpytel)**)
 * Marcin Wielgus (**[@mwielgus](https://github.com/mwielgus)**)
 * Ray Wainman (**[@raywainman](https://github.com/raywainman)**)
+* Guy Templeton (**[@gjtempleton](https://github.com/gjtempleton)**), Skyscanner
 
 ## Contact
 - Slack: [#sig-autoscaling](https://kubernetes.slack.com/messages/sig-autoscaling)
